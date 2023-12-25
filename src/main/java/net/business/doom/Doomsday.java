@@ -11,7 +11,7 @@ public class Doomsday implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		// dOON
 		LOGGER.info("Hello Fabric world!");
 	}
 }
